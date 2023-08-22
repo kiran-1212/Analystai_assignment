@@ -1,4 +1,3 @@
-# Analystai_assignment
 # Web Scraping Assignment
 
 This assignment involves scraping product information from Amazon's website. The assignment is divided into two parts:
